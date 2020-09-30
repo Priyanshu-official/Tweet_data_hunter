@@ -11,7 +11,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - Proposing new features
 
 # Join our Discord server for better Experience
-  <p><a href=" https://discord.gg/59TDJgt"></a> </p>
+  [Open-Dev-Community](https://discord.gg/59TDJgt)
 
 ## 🔆 Tech Stack
 <pre>
