@@ -1,4 +1,4 @@
-## Tweet_data_hunter
+# Tweet_data_hunter
 
 
 
@@ -11,12 +11,14 @@ We love your input! We want to make contributing to this project as easy and tra
 - Proposing new features
 
 # Join our Discord server for better Experience
-  <P><a href=" https://discord.gg/59TDJgt"></a> </p>
+  <p><a href=" https://discord.gg/59TDJgt"></a> </p>
 
 ## 🔆 Tech Stack
+<pre>
 The project is created using 
 -Python
 -Sql
+</pre>
 
 ## 🚀 Steps to setup development environment
 1.  Clone the repo
@@ -43,4 +45,4 @@ By contributing, you agree that your contributions will be licensed under its MI
 
 ## ❤️ Thanks to our awesome contributors.
 
-###🌟 STAR AND FORK THE REPOSITORY FOR YOUR FUTURE REFERENCE.🌟
+### 🌟 STAR AND FORK THE REPOSITORY FOR YOUR FUTURE REFERENCE.🌟
